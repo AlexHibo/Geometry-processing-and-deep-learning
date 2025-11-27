@@ -1,0 +1,12 @@
+ipygany==0.5.0
+ipywidgets==8.1.7
+nbformat==5.10.4
+jupyter
+matplotlib==3.7.4
+networkx==3.1
+pyrender==0.1.45
+shapely==2.0.2
+vtk==9.3.0
+pythreejs==2.4.2
+xvfbwrapper
+https://github.com/skoch9/meshplot/archive/0.4.0.tar.gz
