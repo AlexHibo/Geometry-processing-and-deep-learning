@@ -2,7 +2,7 @@
 
 ---
 
-## Description of the work :
+## Description of my work :
 
 ---
 
